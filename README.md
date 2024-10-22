@@ -1,5 +1,3 @@
-# sudokuSolver
-
 # Sudoku Solver
 
 This project is a **Sudoku Solver** built using HTML, CSS, and JavaScript. It provides an interactive web-based interface where users can input a Sudoku puzzle, and the solver applies a recursive backtracking algorithm to find the solution.
